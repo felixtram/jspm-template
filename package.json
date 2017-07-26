@@ -31,7 +31,7 @@
   },
   "jspm": {
     "directories": {
-      "baseURL": "src/scripts"
+      "baseURL": "src"
     },
     "dependencies": {
       "bootstrap-sass": "github:twbs/bootstrap-sass@^3.3.7",
